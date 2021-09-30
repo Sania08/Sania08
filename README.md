@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Sania 👋
 
 I am a pre-final year Mechanical Engineering undergraduate at [Visvesvaraya National Institute of Technology, Nagpur](https://vnit.ac.in/) , India. My interest is inclined towards Autonomous Navigation of Mobile Robots.
 
@@ -10,7 +10,6 @@ More about me:
 
  :star2:  I am currenty working on Obstacle Avoidance in Dynamic environments.
  
- 🌱 I’m currently learning Deep Learning for Computer Vision.
  
  ### You can contact me through:
  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/sania-subhedar/)  
