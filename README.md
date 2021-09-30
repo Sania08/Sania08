@@ -4,7 +4,7 @@ I am a pre-final year Mechanical Engineering undergraduate at [Visvesvaraya Nati
 
 More about me:
 
- :star2:  I am a member at [IvLabs](https://www.ivlabs.in/), the Robotics and AI Lab at VNIT, Nagpur.Here you can find many interesting projects based on multiple aspects of robotics that we are working on.
+ :star2:  I am an active member at [IvLabs](https://www.ivlabs.in/), the Robotics and AI Lab at VNIT, Nagpur.Here you can find many interesting projects based on multiple aspects of robotics that we are working on.
 
  :star2:  I have worked in the field of Localization, Mapping and Path Planning of Mobile Robots.
 
